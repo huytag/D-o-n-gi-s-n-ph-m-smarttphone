@@ -26,6 +26,7 @@ Dữ liệu thu thập tay từ các trang bán hàng -> Chuẩn hóa dữ liệ
  - [Visual Studio Code Link](https://drive.google.com/file/d/1sCbXBG9eRv9Zk58c-bp0m7odPLlEw2N5/view?usp=sharing)
  - [Visual Studio 2019 Link](https://drive.google.com/file/d/15hc6zX2mkiTod1af8wgYylzjBcmCjM3R/view?usp=sharing)
  - [File word](https://drive.google.com/file/d/1BemevzOi0EuJtvBkL6cC4ANnvooYpt-R/view?usp=sharing)
+ - [Link CODE](https://drive.google.com/drive/folders/17fGb7fx9MN58wmv9zwlbcbIG9vh7pcr5?usp=sharing)
 
 
 
