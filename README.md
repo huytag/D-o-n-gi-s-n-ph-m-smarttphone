@@ -7,6 +7,7 @@ Project được thực hiện dựa trên 157 dòng dữ liệu các dữ liêu
 - Hướng dẫn: Thầy Văn Thế Thành 
     + Ngô Huy Thắng - 09DHTH8 - HUFI
     + Huỳnh Nguyễn Nguyên Khang - 09DHTH8 - HUFI
+    
 ##Từng bước thực hiện trong thuật toán:
 
 Dựa trên thuât toán K-NN (K-NEAREST NEIGHBOR)
@@ -23,3 +24,4 @@ Dữ liệu thu thập tay từ các trang bán hàng -> Chuẩn hóa dữ liệ
 
 
 
+**feedback** or **support** at [facebook/me](https://www.facebook.com/profile.php?id=100039855851785).
