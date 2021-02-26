@@ -11,7 +11,7 @@ Dựa trên thuât toán K-NN (K-NEAREST NEIGHBOR)
 Dữ liệu thu thập tay từ các trang bán hàng -> Chuẩn hóa dữ liệu tiền xử lý dữ liệu -> Dùng K_NN để tìm các K gần nhất từ các thông tin thu thập -> Xác định K và đưa ra các láng giềng gần nhất -> Từ K đã xác định đưa ra mức giá cho các loại Smart phone tương ứng
 
 ##Mô hình tổng quát của thuật toán 
-![enter image description here](https://raw.githubusercontent.com/vietsaclo/HanhViBaoLuc/main/FileInput/Imgs/02.png)
+![enter image description here](https://github.com/huytag/smartphone-price-prediction/issues/1#issue-817078165)
 
 ## Tổng Hợp Các Link Download
  - [Visual Studio Code Link](https://drive.google.com/file/d/1sCbXBG9eRv9Zk58c-bp0m7odPLlEw2N5/view?usp=sharing)
