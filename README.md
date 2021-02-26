@@ -13,6 +13,8 @@ Dữ liệu thu thập tay từ các trang bán hàng -> Chuẩn hóa dữ liệ
 ##Mô hình tổng quát của thuật toán 
 ![enter image description here](https://github.com/huytag/smartphone-price-prediction/issues/1#issue-817078165)
 
+https://github.com/huytag/smartphone-price-prediction/issues/1#issue-817078165
+
 ## Tổng Hợp Các Link Download
  - [Visual Studio Code Link](https://drive.google.com/file/d/1sCbXBG9eRv9Zk58c-bp0m7odPLlEw2N5/view?usp=sharing)
  - [Visual Studio 2019 Link](https://drive.google.com/file/d/15hc6zX2mkiTod1af8wgYylzjBcmCjM3R/view?usp=sharing)
